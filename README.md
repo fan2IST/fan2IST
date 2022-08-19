@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="[https://space.bilibili.com/13285001?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：无技术视频
+-   <a href="https://space.bilibili.com/13285001?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：无技术视频
 
 ### **技术栈:**
 
