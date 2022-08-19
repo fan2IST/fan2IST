@@ -9,6 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 -   <a href="https://space.bilibili.com/13285001?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：无技术视频
+-   <a href="https://juejin.cn/user/3945528649061997/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，13万阅读
 
 ### **技术栈:**
 
