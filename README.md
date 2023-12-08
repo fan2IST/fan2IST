@@ -29,7 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fan2IST)
 
 
-
-### 访客量
-
-![](https://gv.halberd.cn/fan2IST?theme=stroke-fill&active=3200ff&deactive=5A65FF&len=7&speed=40&size=60&space=4&tail=1)
